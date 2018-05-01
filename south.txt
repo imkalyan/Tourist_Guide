@@ -1,0 +1,25 @@
+1-Andhrapradesh-Tirupathitemple-3000
+2-Andhrapradesh-Arakuvalley(vskp)-3500
+3-Andhrapradesh-Nagarjunasagardam-2000
+4-Andhrapradesh-Srisailam-2500
+5-Andhrapradesh-Srikalahasthi-2000
+6-Tamilnadu-vellore(Goldentemple)-2000
+7-Tamilnadu-Srimeenakshitemple-2500
+8-Tamilnadu-OOTY-5000
+9-Tamilnadu-Mahabalipuram-3500
+10-Tamilnadu-Rameshwaram-4000
+11-Kerala-PonmudiHillStation-4000
+12-Kerala-VagamonpineForest-3500
+13-Kerala-LUluMall-2000
+14-Kerala-Kochi(Marinedrive)-2500
+15-Kerala-EdakkaiCaves-3000
+16-Karantaka-Banglore(ISKCONTEMPLE)-3500
+17-Karantaka-MYsorePalace-4000
+18-Karantaka-NandiHills-3000
+19-Karantaka-jOG FALLS-5000
+20-Karantaka-st.Mary'sIsland-5000
+21-Odisha-Puri-3000
+22-Odisha-Bhuvaneshwar-3500
+23-Odisha-kONARK-4000
+24-Odisha-chandragiri-3000
+25-Odisha-HirakudDam-2000
